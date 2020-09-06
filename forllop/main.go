@@ -17,17 +17,3 @@ func main() {
 	fmt.Println(intArr[0], intArr[1])
 }
 
-//
-//
-
-//
-//
-//	for i := 0; i < len(intArr); i++ {
-//		fmt.Println(i, intArr[i])
-//	}
-//
-//	for _, value := range intArr {
-//		fmt.Println(value)
-//	}
-//
-//}

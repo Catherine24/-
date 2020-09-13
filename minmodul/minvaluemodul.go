@@ -12,6 +12,7 @@ func main() {
 		if v < min{
 			min = v
 		}
+
 	}
 	fmt.Println(min)
 }

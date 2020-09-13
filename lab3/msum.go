@@ -8,7 +8,6 @@ func main() {
 	negative := 0
 	for i := 0; i < len(intArr); i++ {
 		tmp := intArr[i]
-
 		if tmp > 0 && negative >=0{
 			continue // пропускаем текущее
 		} else if tmp < 0 {
